@@ -1,4 +1,4 @@
-﻿namespace StudentManager
+﻿namespace Student.cs
 {
     partial class Form1
     {

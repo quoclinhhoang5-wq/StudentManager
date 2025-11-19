@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DDFA555-A61A-484E-8BA1-95715A5FDDB8}</ProjectGuid>
+    <ProjectGuid>{18BF4561-4CF6-4908-A0A9-A7846F9DEBF5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>StudentManager</RootNamespace>
-    <AssemblyName>StudentManager</AssemblyName>
+    <RootNamespace>Student.cs</RootNamespace>
+    <AssemblyName>Student.cs</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -48,6 +48,14 @@ namespace StudentManager
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            // Bắt đầu Validation: Kiểm tra Họ tên và Lớp không được trống
+            if (string.IsNullOrWhiteSpace(txtName.Text) || string.IsNullOrWhiteSpace(txtClass.Text))
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ Họ tên và Lớp.", "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return; // Dừng hàm nếu dữ liệu không hợp lệ
+            }
+            // Kết thúc Validation
+
             Student s = new Student()
             {
                 Name = txtName.Text,
@@ -57,9 +65,14 @@ namespace StudentManager
 
             students.Add(s);
 
+            // Sau khi thêm thành công, làm sạch các trường nhập liệu
+            txtName.Text = "";
+            txtClass.Text = "";
+            cboGender.SelectedIndex = 0; // Đặt lại giới tính mặc định
+            txtName.Focus(); // Đưa con trỏ về trường Họ tên
+
             dgvStudents.DataSource = null;
             dgvStudents.DataSource = students;
-
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Student.cs
+namespace StudentManager
 {
     internal static class Program
     {

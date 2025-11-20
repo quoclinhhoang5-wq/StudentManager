@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Student.cs.Properties
+namespace StudentManager.Properties
 {
 
 

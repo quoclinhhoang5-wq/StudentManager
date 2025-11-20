@@ -1,0 +1,32 @@
+[33mcommit d9a79bdda30267111e7681bc2b94f0aa95b041d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Hoang QUocl Linh <Quoclinhhoang5@gmail.com>
+Date:   Thu Nov 20 22:25:01 2025 +0700
+
+    Final check: Successful 5th commit after resoliving look file
+
+[33mcommit 44eb4d890661c75a3aa43a25c1506571f9217fe8[m
+Author: Hoang QUocl Linh <Quoclinhhoang5@gmail.com>
+Date:   Thu Nov 20 21:44:05 2025 +0700
+
+    Feature: add search function
+
+[33mcommit 484f96bf8f8aff3c1fe93d2a0e5dd257f71372b0[m
+Merge: 66a5086 1c6a2b1
+Author: quoclinhhoang5-wq <quoclinhhoang5@gmail.com>
+Date:   Thu Nov 20 21:18:57 2025 +0700
+
+    Merge pull request #1 from quoclinhhoang5-wq/feature/intro
+    
+    validation prevent empty stdent name
+
+[33mcommit 1c6a2b195c47a0b116a9658bb72cd742d3b29c17[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/feature/intro[m[33m, [m[1;32mfeature/intro[m[33m)[m
+Author: Hoang QUocl Linh <Quoclinhhoang5@gmail.com>
+Date:   Thu Nov 20 21:00:01 2025 +0700
+
+    validation prevent empty stdent name
+
+[33mcommit 66a5086269df24d3d77052e71404a6701f98dcca[m
+Author: Hoang QUocl Linh <Quoclinhhoang5@gmail.com>
+Date:   Thu Nov 20 20:31:34 2025 +0700
+
+    Feature: implement add/update/delete

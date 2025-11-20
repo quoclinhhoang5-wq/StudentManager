@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|e:\\studentmanager\\studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|E:\\StudentManager\\studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|e:\\studentmanager\\studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D36D791-3D17-4F30-82B5-2034530ADFAA}|StudentManager\\StudentManager.csproj|E:\\StudentManager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\StudentManager\\StudentManager\\Form1.cs",
               "RelativeDocumentMoniker": "StudentManager\\Form1.cs",
@@ -58,15 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\StudentManager\\StudentManager\\Form1.cs",
               "RelativeDocumentMoniker": "StudentManager\\Form1.cs",
               "ToolTip": "E:\\StudentManager\\StudentManager\\Form1.cs",
               "RelativeToolTip": "StudentManager\\Form1.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAywFoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-11-20T13:58:31.189Z"
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T13:58:31.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
